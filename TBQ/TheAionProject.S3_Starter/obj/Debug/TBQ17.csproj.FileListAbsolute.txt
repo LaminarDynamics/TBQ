@@ -1,0 +1,12 @@
+E:\CIT 195\L10\TBQ\TheAionProject.S3_Starter\bin\Debug\TheAionProject.S3_Starter.exe.config
+E:\CIT 195\L10\TBQ\TheAionProject.S3_Starter\obj\Debug\TheAionProject.S3_Starter.exe
+E:\CIT 195\L10\TBQ\TheAionProject.S3_Starter\obj\Debug\TheAionProject.S3_Starter.pdb
+E:\CIT 195\L10\TBQ\TheAionProject.S3_Starter\obj\Debug\TBQ17.csprojResolveAssemblyReference.cache
+E:\CIT 195\L10\TBQ\TheAionProject.S3_Starter\bin\Debug\TheAionProject.S3_Starter.exe
+E:\CIT 195\L10\TBQ\TheAionProject.S3_Starter\bin\Debug\TheAionProject.S3_Starter.pdb
+E:\CIT 195\L12\TBQ\TheAionProject.S3_Starter\bin\Debug\TheAionProject.S3_Starter.exe.config
+E:\CIT 195\L12\TBQ\TheAionProject.S3_Starter\obj\Debug\TheAionProject.S3_Starter.exe
+E:\CIT 195\L12\TBQ\TheAionProject.S3_Starter\obj\Debug\TheAionProject.S3_Starter.pdb
+E:\CIT 195\L12\TBQ\TheAionProject.S3_Starter\bin\Debug\TheAionProject.S3_Starter.exe
+E:\CIT 195\L12\TBQ\TheAionProject.S3_Starter\bin\Debug\TheAionProject.S3_Starter.pdb
+E:\CIT 195\L12\TBQ\TheAionProject.S3_Starter\obj\Debug\TBQ17.csprojResolveAssemblyReference.cache
